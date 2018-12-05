@@ -10,14 +10,15 @@ a,.header-widget .log-in-button:hover i,.notification-text span.color,.header-no
 .icon-box-check{box-shadow:0 0 0 5px rgba(42,65,232,.1)}@keyframes checkAnim{0%,100%{box-shadow:0 0 0 5px rgba(42,65,232,.15)}50%{box-shadow:0 0 0 8px rgba(42,65,232,.15)}}
 .testimonial-author span{box-shadow:0 2px 10px rgba(rgb(255, 139, 12)}
 .bidding-widget .button{box-shadow:0 4px 12px rgba(rgb(255, 139, 12,)}
-.bidding-widget .button:hover{box-shadow:0 4px 12px rgba(42,65,232,.25)}
+.bidding-widget .button:hover{box-shadow:0 4px 12px rgba(255,139,12,.25)}
 .dialog-with-tabs .button{box-shadow:0 4px 12px rgba(42,65,232,.15)}
 .slider-handle:after{box-shadow:0 0 0 6px rgba(42,65,232,.12)}
 .slider-handle:hover:after{box-shadow:0 0 0 8px rgba(42,65,232,.12)}
 .dropdown-menu>li>a:hover,.dropdown-menu>.active>a,.dropdown-menu>.active>a:hover{background-color:rgba(42,65,232,.07)}@keyframes clusterAnimation{0%,100%{box-shadow:0 0 0 6px rgba(42,65,232,.15)}50%{box-shadow:0 0 0 10px rgba(42,65,232,.15)}}@keyframes markerAnimation{0%,100%{box-shadow:0 0 0 6px rgba(42,65,232,.15)}50%{box-shadow:0 0 0 8px rgba(42,65,232,.15)}}
 a.apply-now-button{box-shadow:0 2px 8px rgba(42,65,232,.15)}a.apply-now-button:hover{box-shadow:0 2px 8px rgba(42,65,232,.35)}
 .dashboard-nav ul li.active-submenu,.dashboard-nav ul li.active,.dashboard-nav ul li:hover{background-color:rgba(42,65,232,.04)}
-.dashboard-nav ul li.active-submenu a:after,.dashboard-nav ul li.active a:after,.dashboard-nav ul li:hover a:after{background:rgba(42,65,232,.13)}
+.dashboard-nav ul li.active-submenu a:after,.dashboard-nav ul li.active a:after,.dashboard-nav ul li:hover a:after
+{background:rgba(42,65,232,.13)}
 .dashboard-box-list .button{box-shadow:0 3px 8px rgba(42,65,232,.15)}
 .dashboard-box .button.dark:not(.ico):hover{box-shadow:0 3px 8px rgba(42,65,232,.15)}
-#navigation ul ul.dropdown-nav ul.dropdown-nav li:hover a:after,#navigation ul ul.dropdown-nav li:hover a:after{background-color:#2a41e8}
+#navigation ul ul.dropdown-nav ul.dropdown-nav li:hover a:after,#navigation ul ul.dropdown-nav li:hover a:after{background-color:#ff8b0c}
